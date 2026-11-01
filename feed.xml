@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Cuaderno de apuntes</title>
+    <link href="https://cuadernodeapuntes.netlify.app/feed.xml" rel="self" />
+    <link href="https://cuadernodeapuntes.netlify.app" />
+    <updated>2026-10-09T06:29:10-03:00</updated>
+    <author>
+        <name>Fernando Pelillo</name>
+    </author>
+    <id>https://cuadernodeapuntes.netlify.app</id>
+
+    <entry>
+        <title>La matemática santafesina en encrucijada: entre la renovación de Primaria y el muro de la Secundaria</title>
+        <author>
+            <name>Fernando Pelillo</name>
+        </author>
+        <link href="https://cuadernodeapuntes.netlify.app/la-matematica-santafesina-en-encrucijada-de-la-renovacion-curricular-en-primaria-al-muro-de-la-secundaria.html"/>
+        <id>https://cuadernodeapuntes.netlify.app/la-matematica-santafesina-en-encrucijada-de-la-renovacion-curricular-en-primaria-al-muro-de-la-secundaria.html</id>
+            <category term="currículum"/>
+
+        <updated>2026-10-08T15:44:02-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Hace casi tres décadas que la escuela secundaria santafesina no revisa a fondo qué matemática enseña y para qué. En ese mismo período, la primaria acaba de iniciar una actualización curricular que, en sus principios, apunta a otra cosa: alfabetización matemática, resolución de problemas, uso&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hace casi tres décadas que la escuela secundaria santafesina no revisa a fondo qué matemática enseña y para qué. En ese mismo período, la primaria acaba de iniciar una actualización curricular que, en sus principios, apunta a otra cosa: alfabetización matemática, resolución de problemas, uso de tecnología, construcción progresiva de saberes de 1.º a 7.º grado.</p><p>Celebro esa renovación. Pero también sé algo que cualquier docente con años de aula sabe: <strong>ningún cambio curricular se implementa por decreto</strong>. Se negocia, se resiste, se adapta, se vacía o se traiciona en la práctica cotidiana. Y cuando el nivel siguiente no se toca, el cambio se convierte en un remiendo que dura lo que dura la buena voluntad de quienes lo sostienen.</p><p>Voy a decir algo incómodo: <strong>el currículum de matemática de la secundaria santafesina fue pensado para otro país, otra escuela y otro estudiantado</strong>. Fue diseñado en un siglo XX donde la escuela media era transitada por un porcentaje minoritario de la población y preparaba, sobre todo, para la universidad —particularmente para carreras STEM—. Su selección de contenidos no trabajaba temas centrales para la vida cotidiana de la mayoría: interpretación de datos, proporcionalidad aplicada, estimación, uso crítico de tecnología, lectura de gráficos, argumentación. Eso no es una opinión pedagógica. Es un hecho histórico. Y sí, ese currículum fue —y en buena medida sigue siendo— <strong>elitista</strong>.</p><p>No lo digo como consigna. Lo digo porque conozco las consecuencias: estudiantes que quedan afuera en 1.º año, que repiten, que abandonan. Y también porque sé que la matemática de la repetición y el error penalizado no es solo una elección didáctica: <strong>es un mecanismo de selección social</strong>. Quienes pueden pagar academias, profesores particulares o tienen familias que acompañan, sobreviven. Quienes no, quedan en el camino.</p><h2 id="lo-que-propone-la-nueva-primaria-y-lo-que-no-se-dice">Lo que propone la nueva primaria (y lo que no se dice)</h2>
+<p>El cambio en el ciclo superior de primaria no es menor. No se trata de agregar contenidos: se redefine qué significa aprender matemática. Pierde centralidad la ejercitación mecánica de operaciones combinadas, las clasificaciones memorísticas de figuras y las conversiones automáticas sin comprensión del orden de magnitud. Se relativiza el MCM y el DCM cuando aparecen desconectados de situaciones significativas.</p><p>La pregunta deja de ser “¿puede aplicar correctamente un algoritmo?” y pasa a ser “¿puede comprender el problema, elegir estrategias, justificar decisiones y comunicar ideas?”.</p><p>Ingresa el pensamiento algebraico y variacional. Se fortalecen estadística y probabilidad con datos reales. Se incorpora el uso de calculadoras, software y herramientas digitales como instrumentos para explorar, modelizar y validar. La tecnología deja de ser enemiga de la matemática para volverse parte de ella.</p><p>Hasta ahí, el texto de la resolución. Ahora, lo que no dice:</p><ul>
+<li><strong>¿Con qué formación docente se implementa?</strong> Los institutos de formación inicial y los dispositivos de formación en servicio no se reforman por resolución. Un docente que aprendió matemática de una manera no cambia su práctica porque un documento lo indique.</li>
+<li><strong>¿Con qué condiciones laborales?</strong> Horas institucionales para planificar, coordinar con colegas de primaria, evaluar procesos y no solo resultados. Grupos de 25 estudiantes, no de 35. Tiempo remunerado para formarse.</li>
+<li><strong>¿Con qué materiales y conectividad?</strong> Porque pedir calculadoras y software sin garantizar equipamiento y conectividad es trasladar la responsabilidad al docente y a las familias.</li>
+<li><strong>¿Con qué evaluación estandarizada?</strong> Si las pruebas externas siguen midiendo rapidez operatoria, el mensaje del sistema es claro: lo que importa es eso, no lo que dice el diseño curricular.</li>
+</ul>
+<p>Nada de esto invalida la renovación. Pero no se puede hablar de cambio curricular sin hablar de las condiciones en que ese cambio ocurre. <strong>Si no, hacemos divulgación pedagógica, no política educativa.</strong></p><h2 id="el-muro-de-la-secundaria">El muro de la secundaria</h2>
+<p>Supongamos que la renovación de primaria se implementa bien. Supongamos que los pibes y las pibas aprenden a explorar, argumentar, modelizar, usar herramientas. ¿Qué pasa al año siguiente?</p><p>Se encuentran con una secundaria organizada sobre la Resolución N.º 2630/14. Una secundaria que, en buena parte de sus aulas, sigue evaluando rapidez operatoria, repetición de procedimientos y exactitud formal. Una secundaria donde el álgebra aparece tempranamente como manipulación simbólica —despejar, simplificar, pasar términos— muchas veces sin problemas que otorguen sentido a esas operaciones.</p><p>La pregunta es inevitable: <strong>¿estamos enseñando a pensar con símbolos o solamente a mover símbolos?</strong></p><p>Mientras la nueva primaria promueve calculadoras y software para liberar carga cognitiva y concentrarse en las ideas, en muchos ámbitos de la secundaria persiste una cultura de desconfianza hacia esas herramientas. Se prohíbe aquello que la primaria acaba de legitimar. ¿Tiene sentido formar estudiantes para un mundo atravesado por tecnologías digitales si después se evalúa como si esas tecnologías no existieran?</p><p>La primaria culmina profundizando números racionales, porcentajes, medidas y proporcionalidad. La secundaria suele comenzar con una vuelta a la operatoria abstracta con enteros y reglas de signos. ¿Avance conceptual o interrupción de la continuidad?</p><p>Y la estadística —una de las matemáticas más necesarias para comprender el siglo XXI— sigue siendo la primera en quedar afuera cuando falta tiempo. Mientras la sociedad produce datos de manera constante y exige interpretar información, probabilidades y gráficos, la escuela secundaria la trata como contenido periférico.</p><h2 id="la-tabla-que-falta">La tabla que falta</h2>
+<table>
+<thead>
+<tr>
+<th>Dimensión</th>
+<th>Nueva Primaria (Santa Fe)</th>
+<th>Secundaria vigente (Res. 2630/14)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Rol del cálculo</td>
+<td>Mental, estimado, reflexivo, asistido por herramientas</td>
+<td>Predominio del algoritmo manual y la operatoria formal</td>
+</tr>
+<tr>
+<td>Gestión del error</td>
+<td>Fuente de discusión y aprendizaje</td>
+<td>Señal de fallo y penalización</td>
+</tr>
+<tr>
+<td>Evaluación</td>
+<td>Procesos, argumentación, diversidad de estrategias</td>
+<td>Resolución individual y precisión operativa</td>
+</tr>
+<tr>
+<td>Tecnología</td>
+<td>Herramienta legítima de exploración</td>
+<td>Uso limitado o restringido</td>
+</tr>
+<tr>
+<td><strong>Formación docente</strong></td>
+<td><strong>¿Con qué tradición? ¿Con qué dispositivos de acompañamiento?</strong></td>
+<td><strong>Formación inicial y en servicio no reformadas por resolución</strong></td>
+</tr>
+<tr>
+<td><strong>Condiciones institucionales</strong></td>
+<td><strong>¿Horas para planificar? ¿Grupos reducidos? ¿Materiales?</strong></td>
+<td><strong>Pluriempleo, grupos numerosos, falta de tiempo remunerado</strong></td>
+</tr>
+</tbody></table>
+<p>Las dos últimas filas no son un detalle. Son la diferencia entre una reforma que se escribe y una reforma que se hace.</p><h2 id="lo-que-no-se-puede-dejar-de-decir">Lo que no se puede dejar de decir</h2>
+<p>La cuestión de fondo es política: <strong>¿qué matemática necesita la ciudadanía del siglo XXI?</strong> ¿Una matemática entendida como pensamiento crítico, interpretación de datos, modelización y uso inteligente de herramientas? ¿O una matemática reducida a la repetición de procedimientos que hoy realiza en segundos cualquier dispositivo digital?</p><p>Pero hay preguntas anteriores:</p><ul>
+<li><strong>¿Quién decide qué matemática es la del futuro?</strong> ¿Los docentes participamos de esa decisión o solo nos toca implementarla?</li>
+<li><strong>¿Con qué financiamiento?</strong> Porque sin inversión en formación, materiales, conectividad y condiciones laborales, la renovación curricular es una carta de buenas intenciones.</li>
+<li><strong>¿Y qué pasa con quienes ya quedaron afuera del sistema?</strong> Porque la secundaria que filtra sigue ahí, y los pibes que abandonan no esperan a que se reforme el diseño curricular.</li>
+</ul>
+<p>Reformar solamente la primaria puede ser un primer paso, pero difícilmente alcance. Si la secundaria no revisa sus enfoques, sus contenidos, sus formas de evaluar y la formación docente que los sostiene, corremos el riesgo de construir una escuela que enseña a pensar durante siete años para después pedir, de repente, que los estudiantes vuelvan a obedecer.</p><p>El desafío no es curricular. <strong>Es cultural, es político y es sindical.</strong> Y la pregunta sigue abierta, pero no la voy a formular como una dicotomía tranquilizadora. La formulo así:</p><p><strong>¿Vamos a seguir discutiendo qué enseñar en un documento mientras las condiciones materiales del aula siguen decidiendo, todos los días, quién aprende y quién queda afuera?</strong></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Protocolos, litigiosidad y rol docente</title>
+        <author>
+            <name>Fernando Pelillo</name>
+        </author>
+        <link href="https://cuadernodeapuntes.netlify.app/protocolos-litigiosidad-y-rol-docente.html"/>
+        <id>https://cuadernodeapuntes.netlify.app/protocolos-litigiosidad-y-rol-docente.html</id>
+        <media:content url="https://cuadernodeapuntes.netlify.app/media/posts/16/75bffad3-3574-4e9f-8aab-90018d9a856f.jpeg" medium="image" />
+
+        <updated>2026-04-23T18:24:41-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://cuadernodeapuntes.netlify.app/media/posts/16/75bffad3-3574-4e9f-8aab-90018d9a856f.jpeg" alt="" />
+                    <p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"><strong><a href="https://cuadernodeapuntes.netlify.app/media/posts/16/ChatGPT-Image-23-abr-2026-03_21_53-p.m.png"><figure class="post__image post__image--right alignright wp-image-682"><img loading="lazy"  src="https://cuadernodeapuntes.netlify.app/media/posts/16/ChatGPT-Image-23-abr-2026-03_21_53-p.m.png" alt="" width="180" height="379" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://cuadernodeapuntes.netlify.app/media/posts/16/responsive/ChatGPT-Image-23-abr-2026-03_21_53-p.m-xs.png 640w ,https://cuadernodeapuntes.netlify.app/media/posts/16/responsive/ChatGPT-Image-23-abr-2026-03_21_53-p.m-sm.png 768w ,https://cuadernodeapuntes.netlify.app/media/posts/16/responsive/ChatGPT-Image-23-abr-2026-03_21_53-p.m-md.png 1024w ,https://cuadernodeapuntes.netlify.app/media/posts/16/responsive/ChatGPT-Image-23-abr-2026-03_21_53-p.m-lg.png 1366w ,https://cuadernodeapuntes.netlify.app/media/posts/16/responsive/ChatGPT-Image-23-abr-2026-03_21_53-p.m-xl.png 1600w ,https://cuadernodeapuntes.netlify.app/media/posts/16/responsive/ChatGPT-Image-23-abr-2026-03_21_53-p.m-2xl.png 1920w"></figure></a>Protocolos, litigiosidad y rol docente: una discusión urgente</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">En las últimas semanas, a partir de hechos graves ocurridos en escuelas, se han difundido protocolos de actuación frente a amenazas y presencia de armas. La reacción de gran parte de la docencia no es casual ni exagerada: expresa un malestar acumulado frente a una transformación silenciosa pero profunda del trabajo educativo.</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Este documento propone ordenar ese malestar y convertirlo en debate. Porque lo que está en juego no es solo un protocolo: es una pregunta sobre qué tipo de sociedad estamos construyendo.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://cuadernodeapuntes.netlify.app/media/posts/16/75bffad3-3574-4e9f-8aab-90018d9a856f.jpeg" class="type:primaryImage" alt="" /></p>
+                <p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"><strong><a href="https://cuadernodeapuntes.netlify.app/media/posts/16/ChatGPT-Image-23-abr-2026-03_21_53-p.m.png"><figure class="post__image post__image--right alignright wp-image-682"><img loading="lazy"  src="https://cuadernodeapuntes.netlify.app/media/posts/16/ChatGPT-Image-23-abr-2026-03_21_53-p.m.png" alt="" width="180" height="379" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://cuadernodeapuntes.netlify.app/media/posts/16/responsive/ChatGPT-Image-23-abr-2026-03_21_53-p.m-xs.png 640w ,https://cuadernodeapuntes.netlify.app/media/posts/16/responsive/ChatGPT-Image-23-abr-2026-03_21_53-p.m-sm.png 768w ,https://cuadernodeapuntes.netlify.app/media/posts/16/responsive/ChatGPT-Image-23-abr-2026-03_21_53-p.m-md.png 1024w ,https://cuadernodeapuntes.netlify.app/media/posts/16/responsive/ChatGPT-Image-23-abr-2026-03_21_53-p.m-lg.png 1366w ,https://cuadernodeapuntes.netlify.app/media/posts/16/responsive/ChatGPT-Image-23-abr-2026-03_21_53-p.m-xl.png 1600w ,https://cuadernodeapuntes.netlify.app/media/posts/16/responsive/ChatGPT-Image-23-abr-2026-03_21_53-p.m-2xl.png 1920w"></figure></a>Protocolos, litigiosidad y rol docente: una discusión urgente</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">En las últimas semanas, a partir de hechos graves ocurridos en escuelas, se han difundido protocolos de actuación frente a amenazas y presencia de armas. La reacción de gran parte de la docencia no es casual ni exagerada: expresa un malestar acumulado frente a una transformación silenciosa pero profunda del trabajo educativo.</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Este documento propone ordenar ese malestar y convertirlo en debate. Porque lo que está en juego no es solo un protocolo: es una pregunta sobre qué tipo de sociedad estamos construyendo.</p>
+<hr class="border-border-200 border-t-0.5 my-3 mx-1.5">
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"><strong>1. Un límite que no debería necesitar aclaración</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">La escuela tiene una función pedagógica: enseñar, cuidar, vincular, detectar situaciones de riesgo y acompañar. No le corresponde evaluar amenazas como hechos de seguridad, intervenir ante personas armadas ni asumir funciones propias de fuerzas especializadas.</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Cuando un protocolo sugiere ese tipo de intervención, no está fortaleciendo a la escuela: la está exponiendo. Y expone, sobre todo, a quienes trabajan en ella.</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Este límite no necesita justificación extensa. Lo que sí necesita explicación es por qué ese límite se vuelve cada vez más difuso.</p>
+<hr class="border-border-200 border-t-0.5 my-3 mx-1.5">
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"><strong>2. Por qué existen estos protocolos: el problema real</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Los protocolos no surgen de la irresponsabilidad ni de la desconexión con la realidad escolar. Surgen, en gran medida, de una lógica que se ha vuelto dominante: ante cualquier hecho grave, alguien debe responder jurídicamente. Y ese alguien tiene que ser identificable, institucional y, en lo posible, solvente.</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">En ese marco, los protocolos cumplen una función que no es pedagógica sino defensiva: dejar constancia de que se actuó, de que se instruyó, de que la responsabilidad fue transferida hacia abajo.</p>
+<p>Aquí entra en juego la <strong data-path-to-node="8" data-index-in-node="347">responsabilidad objetiva</strong>: la tendencia del sistema a asignar culpas sin importar la intencionalidad, basándose únicamente en el hecho consumado. Como consecuencia, los seguros y las ART, en su lógica de búsqueda de resarcimiento o minimización de costos, operan como una excusa coercitiva que presiona a la institución. El docente se convierte en un <strong data-path-to-node="8" data-index-in-node="697">"blanco financiero"</strong>, el eslabón donde el sistema busca descargar el peso de una demanda civil. El resultado es conocido: indicaciones imposibles de cumplir, énfasis en el registro administrativo por sobre la acción efectiva, y la transferencia de riesgos hacia quienes no tienen los medios para gestionarlos.</p>
+<hr class="border-border-200 border-t-0.5 my-3 mx-1.5">
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"><strong>3. Tres sistemas, una sola persona expuesta</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Aquí está el nudo del problema.</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Hoy conviven tres sistemas con lógicas radicalmente distintas:</p>
+<ul>
+<li class="font-claude-response-body break-words whitespace-normal leading-[1.7]">El sistema educativo opera con lógica pedagógica: el vínculo, el tiempo, la confianza, el error como parte del proceso.</li>
+<li class="font-claude-response-body break-words whitespace-normal leading-[1.7]">El sistema de seguridad opera con lógica de intervención: protocolos tácticos, jerarquía, herramientas específicas, entrenamiento.</li>
+<li class="font-claude-response-body break-words whitespace-normal leading-[1.7]">El sistema judicial opera con lógica de asignación de responsabilidades: busca determinar quién debió hacer qué, en qué momento, con qué medios.</li>
+</ul>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Cuando estas tres lógicas se mezclan sin criterio, ocurre algo predecible: el riesgo se traslada hacia el eslabón más visible y menos protegido. El docente termina siendo evaluado con criterio judicial por situaciones que requieren respuesta de seguridad, dentro de una institución que solo tiene herramientas pedagógicas.</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Eso no es un error de diseño. Es el resultado de un sistema que resuelve su propia incomodidad transfiriendo el peso hacia quienes menos pueden cargarlo.</p>
+<hr class="border-border-200 border-t-0.5 my-3 mx-1.5">
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"><strong>4. La litigiosidad como transformación cultural</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Este fenómeno excede a la educación. Lo mismo ocurre en la salud, en el trabajo social, en cualquier ámbito donde las personas toman decisiones en condiciones de incertidumbre y con recursos limitados.</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">La lógica instalada es: todo hecho puede derivar en una demanda, siempre hay que encontrar un responsable, y ese responsable debe poder pagar. En ese marco, la pregunta que organiza la práctica profesional deja de ser "¿qué es lo mejor que puedo hacer en esta situación?" y pasa a ser "¿qué puedo hacer sin que me cobren las consecuencias?".</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Las consecuencias son concretas y graves: se restringen actividades pedagógicas por miedo al accidente, se debilita el vínculo docente-estudiante porque el contacto es riesgo, se prioriza el cumplimiento formal sobre el criterio profesional, se instala una cultura de autocensura que nadie declara pero todos practican.</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">No se trata de cuestionar el acceso a la justicia. Se trata de señalar que la forma en que hoy se asignan responsabilidades está generando efectos regresivos: no protege mejor a nadie, pero deteriora profundamente la calidad de las prácticas y de los vínculos.</p>
+<hr class="border-border-200 border-t-0.5 my-3 mx-1.5">
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"><strong>5. Lo que perdemos como sociedad</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Un médico que no examina de más para no exponerse. Un docente que no interviene para no comprometerse. Un trabajador social que documenta en lugar de actuar. Una maestra que deja pasar algo que ve porque el protocolo no lo contempla.</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Esto no es responsabilidad individual: es el efecto acumulado de un sistema que puso el miedo al litigio en el centro de las decisiones profesionales.</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Lo que se pierde no es abstracto. Se pierde criterio, se pierde vínculo, se pierde la posibilidad de que alguien actúe con humanidad en el momento en que más se necesita. Y se pierde algo más difícil de nombrar: la confianza de que las instituciones están para cuidar, no para cubrirse.</p>
+<hr class="border-border-200 border-t-0.5 my-3 mx-1.5">
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"><strong>6. Qué discutir como colectivo</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Este escenario exige un debate que no se reduzca a la defensa corporativa ni a la impugnación de normas específicas. Algunas preguntas concretas:</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">¿Qué mecanismos permiten que los docentes participen en la elaboración de protocolos, en lugar de recibirlos como instrucciones?</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">¿Cómo se define institucionalmente la responsabilidad ante hechos de seguridad, de modo que recaiga en los organismos competentes y no se diluya hacia abajo?</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">¿Qué formas de protección jurídica colectiva puede construir el sindicato frente a una litigiosidad que hoy recae sobre individuos?</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">¿Cómo se discute públicamente el impacto de esta lógica sobre la educación, la salud y otros trabajos de cuidado?</p>
+<hr class="border-border-200 border-t-0.5 my-3 mx-1.5">
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"><strong>Conclusión</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Defender el rol docente no es rechazar responsabilidades. Es exigir que cada institución cumpla la suya, sin trasladar riesgos ni encubrir falencias estructurales.</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Pero este documento apunta a algo más: el debate sobre el protocolo de actuación ante armas es la entrada a una discusión que la sociedad argentina todavía no está dando abiertamente. Una discusión sobre cuánto perdemos cuando el miedo a la demanda reemplaza al criterio, cuando el seguro define lo que hacemos, cuando la autocensura se vuelve prudencia y la prudencia se vuelve abandono.</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Esa discusión le corresponde también al sindicalismo. No como denuncia, sino como construcción: de otra forma de entender la responsabilidad, el riesgo compartido y el lugar del trabajo en una sociedad que todavía puede elegir organizarse de otro modo.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Escuelas en democracia, reglamentos de la dictadura</title>
+        <author>
+            <name>Fernando Pelillo</name>
+        </author>
+        <link href="https://cuadernodeapuntes.netlify.app/escuelas-en-democracia-reglamentos-de-la-dictadura.html"/>
+        <id>https://cuadernodeapuntes.netlify.app/escuelas-en-democracia-reglamentos-de-la-dictadura.html</id>
+        <media:content url="https://cuadernodeapuntes.netlify.app/media/posts/14/Screenshot_20210323-174135_Video-Player.jpg" medium="image" />
+
+        <updated>2025-07-27T18:10:23-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://cuadernodeapuntes.netlify.app/media/posts/14/Screenshot_20210323-174135_Video-Player.jpg" alt="" />
+                    <h3 data-start="630" data-end="1147"><figure class="post__image post__image--right alignright size-thumbnail wp-image-638"><img loading="lazy"  src="https://cuadernodeapuntes.netlify.app/media/posts/14/Screenshot_20210323-174135_Video-Player-150x150.jpg" alt="" width="150" height="150" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://cuadernodeapuntes.netlify.app/media/posts/14/responsive/Screenshot_20210323-174135_Video-Player-150x150-xs.jpg 640w ,https://cuadernodeapuntes.netlify.app/media/posts/14/responsive/Screenshot_20210323-174135_Video-Player-150x150-sm.jpg 768w ,https://cuadernodeapuntes.netlify.app/media/posts/14/responsive/Screenshot_20210323-174135_Video-Player-150x150-md.jpg 1024w ,https://cuadernodeapuntes.netlify.app/media/posts/14/responsive/Screenshot_20210323-174135_Video-Player-150x150-lg.jpg 1366w ,https://cuadernodeapuntes.netlify.app/media/posts/14/responsive/Screenshot_20210323-174135_Video-Player-150x150-xl.jpg 1600w ,https://cuadernodeapuntes.netlify.app/media/posts/14/responsive/Screenshot_20210323-174135_Video-Player-150x150-2xl.jpg 1920w"></figure>Por qué urge derogar el Reglamento General de Escuelas Primarias en Santa Fe</h3>
+<p data-start="630" data-end="1147">Hace más de seis décadas que el funcionamiento cotidiano de las escuelas primarias de la provincia de Santa Fe se rige por un reglamento redactado bajo una dictadura militar. El <strong data-start="808" data-end="852">Reglamento General de Escuelas Primarias</strong>, aprobado por el Decreto N.º 4720/61, no es solo un documento viejo. Es una norma que arrastra consigo una <strong data-start="960" data-end="1024">visión autoritaria, patriarcal y centralista de la educación</strong>, absolutamente incompatible con los principios democráticos, pedagógicos y laborales que hoy deberían regir nuestra tarea.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://cuadernodeapuntes.netlify.app/media/posts/14/Screenshot_20210323-174135_Video-Player.jpg" class="type:primaryImage" alt="" /></p>
+                <h3 data-start="630" data-end="1147"><figure class="post__image post__image--right alignright size-thumbnail wp-image-638"><img loading="lazy"  src="https://cuadernodeapuntes.netlify.app/media/posts/14/Screenshot_20210323-174135_Video-Player-150x150.jpg" alt="" width="150" height="150" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://cuadernodeapuntes.netlify.app/media/posts/14/responsive/Screenshot_20210323-174135_Video-Player-150x150-xs.jpg 640w ,https://cuadernodeapuntes.netlify.app/media/posts/14/responsive/Screenshot_20210323-174135_Video-Player-150x150-sm.jpg 768w ,https://cuadernodeapuntes.netlify.app/media/posts/14/responsive/Screenshot_20210323-174135_Video-Player-150x150-md.jpg 1024w ,https://cuadernodeapuntes.netlify.app/media/posts/14/responsive/Screenshot_20210323-174135_Video-Player-150x150-lg.jpg 1366w ,https://cuadernodeapuntes.netlify.app/media/posts/14/responsive/Screenshot_20210323-174135_Video-Player-150x150-xl.jpg 1600w ,https://cuadernodeapuntes.netlify.app/media/posts/14/responsive/Screenshot_20210323-174135_Video-Player-150x150-2xl.jpg 1920w"></figure>Por qué urge derogar el Reglamento General de Escuelas Primarias en Santa Fe</h3>
+<p data-start="630" data-end="1147">Hace más de seis décadas que el funcionamiento cotidiano de las escuelas primarias de la provincia de Santa Fe se rige por un reglamento redactado bajo una dictadura militar. El <strong data-start="808" data-end="852">Reglamento General de Escuelas Primarias</strong>, aprobado por el Decreto N.º 4720/61, no es solo un documento viejo. Es una norma que arrastra consigo una <strong data-start="960" data-end="1024">visión autoritaria, patriarcal y centralista de la educación</strong>, absolutamente incompatible con los principios democráticos, pedagógicos y laborales que hoy deberían regir nuestra tarea.</p>
+
+<p data-start="1149" data-end="1433">En un momento histórico donde se habla de <strong data-start="1191" data-end="1291">inclusión, diversidad, género, autonomía pedagógica, derechos laborales y transformación digital</strong>, resulta inaceptable que nuestras prácticas escolares sigan respondiendo a una matriz normativa que no reconoce ninguna de esas dimensiones.</p>
+<h3 data-start="1435" data-end="1499">📜 Un reglamento que nació en dictadura... y nunca se revisó</h3>
+<p data-start="1501" data-end="1916">El Reglamento de 1961 fue concebido en un clima institucional de verticalismo extremo. Su enfoque es claramente <strong data-start="1613" data-end="1644">disciplinador y controlador</strong>, más preocupado por el cumplimiento formal de rutinas que por el sentido pedagógico de la tarea docente. Está atravesado por la lógica de vigilancia sobre un cuerpo docente históricamente feminizad*, al que se le asigna un rol subordinado, ejecutor, sin voz ni autonomía.</p>
+<p data-start="1918" data-end="2280">Y sin embargo, en pleno siglo XXI, ese reglamento <strong data-start="1968" data-end="1985">sigue vigente</strong>. Y sigue generando consecuencias prácticas en nuestras escuelas: la exigencia de la carpeta diaria, el control de la “presentación” de los docentes, la obligación de rendir informes escritos innecesarios, la carga administrativa que recae enteramente en el docente de grado, entre muchas otras.</p>
+<h3 data-start="2282" data-end="2332">⚖️ Lo que dice... y lo que ya no debería decir</h3>
+<p data-start="2334" data-end="2738">Entre sus artículos más discutibles, el <strong data-start="2374" data-end="2396">art. 390, inciso f</strong>, señala que el/la docente de grado debe “llevar la carpeta diaria con el detalle de las actividades realizadas y planificadas”, una exigencia que hoy <strong data-start="2547" data-end="2615">atenta contra el derecho laboral a condiciones dignas de trabajo</strong>, ya que impone una carga que no existe en otros niveles (como el secundario) y que no tiene justificación pedagógica real.</p>
+<p data-start="2740" data-end="2799">Más allá de este punto, el reglamento ignora completamente:</p>
+<ul data-start="2801" data-end="3361">
+<li data-start="2801" data-end="2898">
+<p data-start="2803" data-end="2898">El <strong data-start="2806" data-end="2842">principio de libertad de cátedra</strong>, garantizado en la Ley de Educación Nacional (art. 51).</p>
+</li>
+<li data-start="2899" data-end="2989">
+<p data-start="2901" data-end="2989">La <strong data-start="2904" data-end="2929">perspectiva de género</strong>, clave en cualquier institución educativa en la actualidad.</p>
+</li>
+<li data-start="2990" data-end="3092">
+<p data-start="2992" data-end="3092">Los cambios en la <strong data-start="3010" data-end="3033">inclusión educativa</strong>, que exigen dispositivos más flexibles y contextualizados.</p>
+</li>
+<li data-start="3093" data-end="3361">
+<p data-start="3095" data-end="3361">El uso de <strong data-start="3105" data-end="3127">nuevas tecnologías</strong>: hoy la <strong data-start="3136" data-end="3185">asistencia se carga en el portal “Mi Escuela”</strong>, y las <strong data-start="3193" data-end="3219">libretas son digitales</strong>, sin embargo, seguimos obligando a lxs docentes a llenar registros en papel y hacer cálculos estadísticos manuales que ya realiza el sistema.</p>
+</li>
+</ul>
+<h3 data-start="3363" data-end="3402">🏫 Desigualdades que se profundizan</h3>
+<p data-start="3404" data-end="3865">En secundaria, cada cierta cantidad de secciones hay <strong data-start="3457" data-end="3494">preceptorxs, tutorxs, secretarixs</strong> que cumplen funciones de registro, acompañamiento y gestión administrativa. En primaria, esas tareas recaen en su totalidad sobre el/la docente de grado. Es decir, <strong data-start="3659" data-end="3752">misma formación, misma responsabilidad pedagógica, pero más tareas y menos reconocimiento</strong>. Esta desigualdad estructural, muchas veces naturalizada, es también una forma de violencia laboral y simbólica.</p>
+<h3 data-start="3867" data-end="3927">🧭 Una escuela democrática necesita un marco democrático</h3>
+<p data-start="3929" data-end="4233">No se puede hablar de educación democrática con reglamentos autoritarios. No se puede formar ciudadanxs libres con estructuras que desconfían del criterio profesional docente. No se puede hablar de innovación pedagógica con normas que regulan la docencia como si fuera una práctica mecánica y previsible.</p>
+<p data-start="4235" data-end="4401">Es urgente iniciar un <strong data-start="4257" data-end="4304">proceso participativo, plural y democrático</strong> para <strong data-start="4310" data-end="4385">derogar y reemplazar el actual Reglamento General de Escuelas Primarias</strong>, adecuándolo a:</p>
+<ul data-start="4403" data-end="4687">
+<li data-start="4403" data-end="4471">
+<p data-start="4405" data-end="4471">El <strong data-start="4408" data-end="4431">enfoque de derechos</strong> que guía el sistema educativo nacional.</p>
+</li>
+<li data-start="4472" data-end="4527">
+<p data-start="4474" data-end="4527">Los avances en <strong data-start="4489" data-end="4526">perspectiva de género e inclusión</strong>.</p>
+</li>
+<li data-start="4528" data-end="4601">
+<p data-start="4530" data-end="4601">Las <strong data-start="4534" data-end="4575">condiciones laborales y profesionales</strong> de lxs docentes actuales.</p>
+</li>
+<li data-start="4602" data-end="4687">
+<p data-start="4604" data-end="4687">Las <strong data-start="4608" data-end="4641">transformaciones tecnológicas</strong> que atraviesan todos los niveles del sistema.</p>
+</li>
+</ul>
+<h3 data-start="4689" data-end="4762">📣 No es un capricho. Es justicia laboral, institucional y pedagógica</h3>
+<p data-start="4764" data-end="5092">Actualizar el reglamento no es un detalle técnico ni un gesto simbólico. Es una <strong data-start="4844" data-end="4887">necesidad política y educativa de fondo</strong>. Es garantizar que nuestras escuelas primarias dejen de funcionar con normas diseñadas para controlar, vigilar y limitar, y empiecen a hacerlo con reglas pensadas para formar, acompañar, cuidar y enseñar.</p>
+<p data-start="5094" data-end="5326">Desde este espacio, como docente, invito a mis colegas, a directivxs, a sindicatos, a estudiantes y a quienes aman la escuela pública a <strong data-start="5230" data-end="5256">sumarse a este reclamo</strong>. No podemos seguir enseñando bajo reglas que niegan lo que somos hoy.</p>
+<p data-start="5328" data-end="5410">No hay escuela democrática posible si no actualizamos los marcos que la sostienen.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>La carpeta de actividades diarias en primaria</title>
+        <author>
+            <name>Fernando Pelillo</name>
+        </author>
+        <link href="https://cuadernodeapuntes.netlify.app/la-carpeta-de-actividades-diarias-en-primaria.html"/>
+        <id>https://cuadernodeapuntes.netlify.app/la-carpeta-de-actividades-diarias-en-primaria.html</id>
+        <media:content url="https://cuadernodeapuntes.netlify.app/media/posts/13/PATRIARCADO-600x380-1.webp" medium="image" />
+
+        <updated>2025-07-27T17:20:28-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://cuadernodeapuntes.netlify.app/media/posts/13/PATRIARCADO-600x380-1.webp" alt="" />
+                    <h3 data-start="599" data-end="699"><figure class="post__image post__image--right alignright size-medium wp-image-633"><img loading="lazy"  src="https://cuadernodeapuntes.netlify.app/media/posts/13/infanciahoycom-300x231.jpg" alt="" width="300" height="231" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://cuadernodeapuntes.netlify.app/media/posts/13/responsive/infanciahoycom-300x231-xs.jpg 640w ,https://cuadernodeapuntes.netlify.app/media/posts/13/responsive/infanciahoycom-300x231-sm.jpg 768w ,https://cuadernodeapuntes.netlify.app/media/posts/13/responsive/infanciahoycom-300x231-md.jpg 1024w ,https://cuadernodeapuntes.netlify.app/media/posts/13/responsive/infanciahoycom-300x231-lg.jpg 1366w ,https://cuadernodeapuntes.netlify.app/media/posts/13/responsive/infanciahoycom-300x231-xl.jpg 1600w ,https://cuadernodeapuntes.netlify.app/media/posts/13/responsive/infanciahoycom-300x231-2xl.jpg 1920w"></figure></h3>
+<p data-start="193" data-end="265"><strong data-start="193" data-end="265">¿Todavía la carpeta diaria? Un llamado a repensar nuestras prácticas</strong></p>
+<p data-start="322" data-end="780">Hace tiempo que vengo reflexionando —y conversando con colegas— sobre algunas prácticas que siguen vigentes en nuestras escuelas como si fueran intocables. Una de ellas es la ya conocida <strong data-start="509" data-end="529">“carpeta diaria”</strong> en el Nivel Primario. Quienes trabajamos en las aulas sabemos lo que implica sostenerla: no solo por el tiempo y esfuerzo que demanda, sino por lo que representa simbólicamente. Una forma de control, más cercana a la desconfianza que a lo pedagógico.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://cuadernodeapuntes.netlify.app/media/posts/13/PATRIARCADO-600x380-1.webp" class="type:primaryImage" alt="" /></p>
+                <h3 data-start="599" data-end="699"><figure class="post__image post__image--right alignright size-medium wp-image-633"><img loading="lazy"  src="https://cuadernodeapuntes.netlify.app/media/posts/13/infanciahoycom-300x231.jpg" alt="" width="300" height="231" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://cuadernodeapuntes.netlify.app/media/posts/13/responsive/infanciahoycom-300x231-xs.jpg 640w ,https://cuadernodeapuntes.netlify.app/media/posts/13/responsive/infanciahoycom-300x231-sm.jpg 768w ,https://cuadernodeapuntes.netlify.app/media/posts/13/responsive/infanciahoycom-300x231-md.jpg 1024w ,https://cuadernodeapuntes.netlify.app/media/posts/13/responsive/infanciahoycom-300x231-lg.jpg 1366w ,https://cuadernodeapuntes.netlify.app/media/posts/13/responsive/infanciahoycom-300x231-xl.jpg 1600w ,https://cuadernodeapuntes.netlify.app/media/posts/13/responsive/infanciahoycom-300x231-2xl.jpg 1920w"></figure></h3>
+<p data-start="193" data-end="265"><strong data-start="193" data-end="265">¿Todavía la carpeta diaria? Un llamado a repensar nuestras prácticas</strong></p>
+<p data-start="322" data-end="780">Hace tiempo que vengo reflexionando —y conversando con colegas— sobre algunas prácticas que siguen vigentes en nuestras escuelas como si fueran intocables. Una de ellas es la ya conocida <strong data-start="509" data-end="529">“carpeta diaria”</strong> en el Nivel Primario. Quienes trabajamos en las aulas sabemos lo que implica sostenerla: no solo por el tiempo y esfuerzo que demanda, sino por lo que representa simbólicamente. Una forma de control, más cercana a la desconfianza que a lo pedagógico.</p>
+
+<p data-start="782" data-end="1277">La obligatoriedad de esta carpeta no es una tradición inofensiva. Tiene raíces normativas muy viejas: fue establecida en 1961, en el Reglamento General de Escuelas de la provincia de Santa Fe, durante una dictadura militar. Un contexto autoritario y patriarcal, donde el rol docente —mayoritariamente femenino— era concebido como subordinado, sin autonomía ni voz propia. La carpeta diaria, visada por directivos, no nacía como una herramienta pedagógica, sino como un instrumento de vigilancia.</p>
+<p data-start="1279" data-end="1646">Hoy, esa mirada resulta insostenible. Quienes enseñamos en primaria somos <strong data-start="1353" data-end="1400">profesionales formados, con título superior</strong>, con capacidad de planificar, intervenir y evaluar desde una perspectiva situada y reflexiva. Exigirnos una carpeta diaria prolija, uniforme y visada no solo desconoce nuestra formación, sino que limita la libertad pedagógica consagrada por ley.</p>
+<p data-start="1648" data-end="2116">Pero no es la única práctica obsoleta que seguimos arrastrando. Cada año, por ejemplo, el <strong data-start="1738" data-end="1755">censo escolar</strong> lo sigue completando exclusivamente el Nivel Primario, como si el Secundario —que es obligatorio desde hace casi dos décadas— no necesitara también conocer su matrícula proyectada. Es difícil no pensar que esta información no se utiliza realmente para la toma de decisiones relevantes, y que se mantiene más por costumbre burocrática que por utilidad concreta.</p>
+<p data-start="2118" data-end="2574">También seguimos llenando <strong data-start="2144" data-end="2166">planillas en papel</strong> —asistencia, calificaciones, reportes— que conviven con sistemas digitales que ya contienen esa información. Lo más paradójico es que en muchos casos los mismos sistemas informáticos ya generan <strong data-start="2361" data-end="2390">los cálculos estadísticos</strong>, pero igual se nos exige hacerlos manualmente, en registros que nunca se actualizaron al calendario escolar actual. Las hojas no alcanzan, los cuadros no cierran, los tiempos tampoco.</p>
+<p data-start="2576" data-end="2996">Mientras tanto, en Secundaria, esas tareas las hacen preceptores, tutores, secretarios. Cada cierta cantidad de secciones hay personal específico asignado para tareas administrativas, de acompañamiento o seguimiento. En Primaria, en cambio, el <strong data-start="2820" data-end="2840">docente de grado</strong> lo hace todo: enseña, acompaña, registra, calcula, llena, reparte, entrega, carga. Una carga de trabajo silenciosa, normalizada, desigualmente distribuida.</p>
+<p data-start="2998" data-end="3510">Además, esta diferencia de trato institucional entre niveles no es inocente. En secundaria se respeta la planificación como base profesional. En primaria se sigue esperando que “rindamos cuentas” todos los días. Esta diferencia no solo evidencia una desigualdad pedagógica, sino también <strong data-start="3285" data-end="3334">una discriminación histórica con base sexista</strong>, que sigue considerando al Nivel Primario como “menor” y, por ende, menos digno de autonomía… y de salario. Porque sí, también cobramos menos, pese a tener la misma formación.</p>
+<p data-start="3512" data-end="3965">No se trata de evadir responsabilidades. Se trata de <strong data-start="3565" data-end="3669">actualizar nuestras formas de trabajo a los marcos legales, pedagógicos y tecnológicos que hoy rigen</strong>. La carpeta diaria no es sinónimo de compromiso. Como tampoco lo es el llenado a mano de planillas en papel, ni la realización de cálculos que ya están automatizados. Necesitamos herramientas que nos ayuden a pensar, a enseñar mejor, no dispositivos de control que nos agotan y nos infantilizan.</p>
+<p data-start="3967" data-end="4324">Existen muchas formas válidas y potentes de documentar nuestras prácticas: carpetas por áreas, proyectos, cuadernos de producción, portafolios, bitácoras, registros digitales. Lo importante es que esas formas tengan sentido pedagógico, y que estén al servicio de los aprendizajes, no de una lógica burocrática que nadie revisa, que nadie lee, que nadie usa.</p>
+<p data-start="4326" data-end="4657">Como docente, creo que ya es hora de <strong data-start="4363" data-end="4434">dejar atrás estas prácticas que nos sobrecargan y nos invisibilizan</strong>, y empezar a construir otras, basadas en la confianza, la autonomía y el respeto por nuestra tarea. Este no es solo un reclamo laboral; es también una defensa del derecho a enseñar con sentido, con libertad y con dignidad.</p>
+<p data-start="4659" data-end="4774">Por eso escribo esto. Porque no quiero seguir aceptando una estructura que atrasa. Y porque sé que no soy el único.</p>
+<p data-start="4776" data-end="5006">Si sentís lo mismo, te invito a sumarte al debate, a compartir tu experiencia, a alzar la voz. Tenemos derecho a trabajar con herramientas actuales, con reconocimiento real y con condiciones que estén a la altura de nuestra tarea.</p>
+<p data-start="5011" data-end="5074"><strong data-start="5011" data-end="5031">Fernando Pelillo</strong></p>
+<blockquote>
+<p data-start="5011" data-end="5074">Chat GPT me ayuda a fundamentar:</p>
+</blockquote>
+<h3 class="western">🧾 Fundamentación crítica sobre la no obligatoriedad de la “carpeta diaria” en el Nivel Primario</h3>
+<h4 class="western">🏛 1. Marco normativo en tensión: una herencia anacrónica</h4>
+<p>La exigencia de llevar una “carpeta diaria de actividades” por parte de cada docente de grado se remonta al <strong>Reglamento General de Escuelas de la Provincia de Santa Fe</strong>, aprobado por el <strong>Decreto N.º 4720/61</strong>, en plena dictadura militar. Este reglamento:</p>
+<ul>
+<li>Fue elaborado en un <strong>contexto de verticalismo autoritario y patriarcal</strong>, donde el rol docente, mayoritariamente femenino, se entendía como subordinado, sin autonomía pedagógica.</li>
+<li>Prescribía prácticas de <strong>control minucioso</strong> sobre la actividad docente cotidiana, entre ellas la “carpeta diaria” a visarse por directivos, con fuerte impronta burocrática y poco sustento pedagógico.</li>
+<li>Estaba dirigido a una <strong>formación normalista secundaria</strong>, donde las “maestras” eran concebidas como ejecutoras de una planificación externa, no como profesionales autónomas.</li>
+</ul>
+<p>En contraste, hoy <strong>todos los y las docentes de primaria son profesores/as con formación terciaria</strong> y cuentan con <strong>título habilitante de nivel superior</strong>, al igual que sus pares de secundaria. La exigencia de llevar una carpeta diaria <strong>atenta contra la libertad de cátedra</strong>, reconocida incluso en la <strong>Ley de Educación Nacional N.º 26.206</strong> (art. 51).</p>
+<hr>
+<h4 class="western">🎓 2. Profesionalización docente y libertad pedagógica</h4>
+<p>El sistema educativo argentino reconoce a los y las docentes como <strong>profesionales de la enseñanza</strong>, con capacidad de planificar, adaptar y evaluar en función de las características del grupo y los propósitos formativos.</p>
+<p>Exigir una carpeta diaria uniforme, prolija y visada no responde a:</p>
+<ul>
+<li>Las demandas de una <strong>educación inclusiva y situada</strong>, sino a una lógica de control y disciplinamiento del trabajo docente.</li>
+<li>Las condiciones reales del aula actual: diversidad, multitarea, adaptación permanente.</li>
+</ul>
+<p>La <strong>libertad de cátedra</strong> no significa hacer “lo que uno quiere”, sino poder tomar decisiones pedagógicas justificadas, priorizando los aprendizajes sobre la forma del registro.</p>
+<hr>
+<h4 class="western">📚 3. Los NAP, el enfoque por capacidades y la evaluación formativa</h4>
+<p>Desde 2006, con la implementación de los <strong>Núcleos de Aprendizaje Prioritarios</strong>, el foco está en el <strong>desarrollo de capacidades y saberes significativos</strong>, no en la acumulación diaria de actividades escritas.</p>
+<p>Los <strong>cuadernos, carpetas o registros</strong> pueden adoptar muchas formas:</p>
+<ul>
+<li>Cuadernos por área,</li>
+<li>Carpeta de producción matemática o literaria,</li>
+<li>Carpeta de proyectos,</li>
+<li>Portafolio individual o grupal,</li>
+<li>Registros digitales u orales.</li>
+</ul>
+<p>La <strong>evaluación formativa y continua</strong>, base del enfoque actual, se nutre de múltiples fuentes, no exclusivamente del registro escrito día por día.</p>
+<hr>
+<h4 class="western">⚖️ 4. Igual trabajo, igual reconocimiento: un reclamo pendiente</h4>
+<p>La persistencia de la carpeta diaria como exigencia en primaria y no en secundaria reproduce una <strong>discriminación histórica de origen sexista</strong>:</p>
+<ul>
+<li>En secundaria, la planificación es por espacios curriculares y se respeta la autonomía profesional.</li>
+<li>En primaria, aún se espera que las/os docentes “rindan cuentas” diariamente, reforzando una mirada infantilizadora y burocrática del rol.</li>
+</ul>
+<p>Este trato desigual <strong>se refleja también en el nomenclador salarial</strong>, en el que las funciones en primaria históricamente se remuneran por debajo de las de secundaria, pese a la misma carga de formación.</p>
+<hr>
+<h3 class="western">✅ Conclusión</h3>
+<p><strong>No exigir la carpeta diaria</strong> no significa desorden ni falta de compromiso docente. Significa <strong>actualizar las prácticas escolares a los marcos legales, pedagógicos y profesionales vigentes</strong>, y dejar atrás formas de control obsoletas que no contribuyen a la mejora real de la enseñanza.</p>
+<p>Se propone, en su lugar, que cada equipo docente organice el registro pedagógico de manera <strong>acorde a su planificación, estilo y realidad de grupo</strong>, utilizando:</p>
+<ul>
+<li>Carpetas por área o eje,</li>
+<li>Cuadernos de producción,</li>
+<li>Registros de avances por proyecto,</li>
+<li>Muestras de trabajos,</li>
+<li>Bitácoras docentes y de alumnos.</li>
+</ul>
+<p>Esto fortalece el <strong>profesionalismo</strong>, la <strong>autonomía pedagógica</strong> y el <strong>respeto institucional</strong> por la tarea docente.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Servidor pedagógico para Aulas Digitales</title>
+        <author>
+            <name>Fernando Pelillo</name>
+        </author>
+        <link href="https://cuadernodeapuntes.netlify.app/servidor-pedagogico-para-aulas-digitales.html"/>
+        <id>https://cuadernodeapuntes.netlify.app/servidor-pedagogico-para-aulas-digitales.html</id>
+        <media:content url="https://cuadernodeapuntes.netlify.app/media/posts/1/Servidor-Educativo-Proyecto-ArgenClic-Gleducar-Mozilla-Firefox_023.jpg" medium="image" />
+
+        <updated>2022-11-12T12:58:57-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://cuadernodeapuntes.netlify.app/media/posts/1/Servidor-Educativo-Proyecto-ArgenClic-Gleducar-Mozilla-Firefox_023.jpg" alt="" />
+                    Les presentamos una muestra de materiales educativos en formato digital, recopilados y ordenados para trabajar en red (sin necesidad de internet) en las escuelas (primarias, principalmente). Una muestra de los contenidos puede verse en ESTE ENLACE. O pueden saber más detalles sobre la propuesta AQUÍ El objetivo&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://cuadernodeapuntes.netlify.app/media/posts/1/Servidor-Educativo-Proyecto-ArgenClic-Gleducar-Mozilla-Firefox_023.jpg" class="type:primaryImage" alt="" /></p>
+                <p><!-- wp:paragraph --></p>
+<p>Les presentamos una muestra de materiales educativos en formato digital, recopilados y ordenados para trabajar en red (sin necesidad de internet) en las escuelas (primarias, principalmente).</p>
+<p>Una muestra de los contenidos puede verse en <a href="https://proyecto.aulaslibres.ar/server/" target="_blank" rel="noopener">ESTE ENLACE</a>.</p>
+<p>O pueden saber más detalles sobre la propuesta <a href="https://proyecto.aulaslibres.ar/sobre-el-servidor-pedagogico-para-adm/">AQUÍ</a></p>
+<p>El objetivo de la muestra es que se pueda investigar el contenido propuesto, con dos propósitos:</p>
+<ul>
+<li>Armar un servidor propio, tomando ideas y recursos. Cada comunidad es libre de tomar los recursos que les parezcan útiles, y agregar los que crean convenientes. Los materiales son gratuitos en todos los casos, y <a href="https://es.wikipedia.org/wiki/Contenido_libre" target="_blank" rel="noopener">LIBRES </a>en la mayoría de ellos.</li>
+<li><a href="https://aulaslibres.ar/contacto/">Solicitarnos</a> el material descargado y organizado para utilizar en la escuela. Si estamos geográficamente cerca, podemos realizar el trabajo de instalar el contenido y dejarlo funcionando. Si estamos demasiado lejos, podemos contactarlos con organizaciones de Software Libre cercanas, o guiarlos a la distancia para replicar el trabajo ustedes mismos.</li>
+</ul>
+<figure class="aligncenter size-medium wp-image-78"><img loading="lazy"  src="https://cuadernodeapuntes.netlify.app/media/posts/1/mueblemobilexo-300x232.jpg" alt="" width="300" height="232"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://cuadernodeapuntes.netlify.app/media/posts/1/responsive/mueblemobilexo-300x232-xs.jpg 640w ,https://cuadernodeapuntes.netlify.app/media/posts/1/responsive/mueblemobilexo-300x232-sm.jpg 768w ,https://cuadernodeapuntes.netlify.app/media/posts/1/responsive/mueblemobilexo-300x232-md.jpg 1024w ,https://cuadernodeapuntes.netlify.app/media/posts/1/responsive/mueblemobilexo-300x232-lg.jpg 1366w ,https://cuadernodeapuntes.netlify.app/media/posts/1/responsive/mueblemobilexo-300x232-xl.jpg 1600w ,https://cuadernodeapuntes.netlify.app/media/posts/1/responsive/mueblemobilexo-300x232-2xl.jpg 1920w"></figure>
+<p>Están organizados para aprovechar los recursos disponibles en las Aulas Digitales Móviles,</p>
+
+<p>Ojalá puedan comentar, sugerir, corregir y proponer, así mejoramos el trabajo.</p>
+<p>
+<!-- /wp:paragraph --></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Capacitación: Inscripción abierta</title>
+        <author>
+            <name>Fernando Pelillo</name>
+        </author>
+        <link href="https://cuadernodeapuntes.netlify.app/capacitacion-inscripcion-abierta.html"/>
+        <id>https://cuadernodeapuntes.netlify.app/capacitacion-inscripcion-abierta.html</id>
+
+        <updated>2020-06-03T14:11:42-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <p>El <a href="https://campus.aulaslibres.ar/" target="_blank" rel="noopener noreferrer">Programa Universitario de Capacitación</a>, dependiente de la Unidad de Gestión de Proyectos Estratégicos, promovido por Vicerrectorado de la UNR, en colaboración con <a href="https://asaec.info/" target="_blank" rel="noopener noreferrer">ASAEC (Asociación Argentina de Estudios Canadienses)</a> y <a href="https://aulaslibres.pedagogiaenfoco.ar/" target="_blank" rel="noopener noreferrer">Aulas Libres</a>, anuncia la apertura de las<a href="https://campus.aulaslibres.ar/programa/cronograma/" target="_blank" rel="noopener noreferrer"> Inscripciones para Formación Docente Online</a>.</p>
+<p><a href="https://campus.aulaslibres.ar"><figure class="aligncenter size-medium wp-image-451"><img loading="lazy"  src="https://cuadernodeapuntes.netlify.app/media/posts/12/H2-300x156.jpg" alt="" width="300" height="156"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://cuadernodeapuntes.netlify.app/media/posts/12/responsive/H2-300x156-xs.jpg 640w ,https://cuadernodeapuntes.netlify.app/media/posts/12/responsive/H2-300x156-sm.jpg 768w ,https://cuadernodeapuntes.netlify.app/media/posts/12/responsive/H2-300x156-md.jpg 1024w ,https://cuadernodeapuntes.netlify.app/media/posts/12/responsive/H2-300x156-lg.jpg 1366w ,https://cuadernodeapuntes.netlify.app/media/posts/12/responsive/H2-300x156-xl.jpg 1600w ,https://cuadernodeapuntes.netlify.app/media/posts/12/responsive/H2-300x156-2xl.jpg 1920w"></figure></a>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>El <a href="https://campus.aulaslibres.ar/" target="_blank" rel="noopener noreferrer">Programa Universitario de Capacitación</a>, dependiente de la Unidad de Gestión de Proyectos Estratégicos, promovido por Vicerrectorado de la UNR, en colaboración con <a href="https://asaec.info/" target="_blank" rel="noopener noreferrer">ASAEC (Asociación Argentina de Estudios Canadienses)</a> y <a href="https://aulaslibres.pedagogiaenfoco.ar/" target="_blank" rel="noopener noreferrer">Aulas Libres</a>, anuncia la apertura de las<a href="https://campus.aulaslibres.ar/programa/cronograma/" target="_blank" rel="noopener noreferrer"> Inscripciones para Formación Docente Online</a>.</p>
+<p><a href="https://campus.aulaslibres.ar"><figure class="aligncenter size-medium wp-image-451"><img loading="lazy"  src="https://cuadernodeapuntes.netlify.app/media/posts/12/H2-300x156.jpg" alt="" width="300" height="156"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://cuadernodeapuntes.netlify.app/media/posts/12/responsive/H2-300x156-xs.jpg 640w ,https://cuadernodeapuntes.netlify.app/media/posts/12/responsive/H2-300x156-sm.jpg 768w ,https://cuadernodeapuntes.netlify.app/media/posts/12/responsive/H2-300x156-md.jpg 1024w ,https://cuadernodeapuntes.netlify.app/media/posts/12/responsive/H2-300x156-lg.jpg 1366w ,https://cuadernodeapuntes.netlify.app/media/posts/12/responsive/H2-300x156-xl.jpg 1600w ,https://cuadernodeapuntes.netlify.app/media/posts/12/responsive/H2-300x156-2xl.jpg 1920w"></figure></a>
+
+<table border="1" cellspacing="2" cellpadding="2">
+<tbody>
+<tr>
+<td><span style="color: #000080;">Módulo</span>
+<span style="color: #000080;">y Nivel</span></td>
+<td><span style="color: #000080;">Fecha</span>
+<span style="color: #000080;">de Inicio</span></td>
+<td><span style="color: #000080;">Inscripción</span></td>
+</tr>
+<tr>
+<td>Alfabetización
+Digital Docente – Nivel Básico</td>
+<td>15/06/2020</td>
+<td>Abierta</td>
+</tr>
+<tr>
+<td>Plataformas
+Educativas – Nivel Avanzado</td>
+<td>15/06/2020</td>
+<td>Abierta</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Software
+Libre en la Educación – Nivel Básico</td>
+<td>01/07/2020</td>
+<td>Abierta</td>
+</tr>
+<tr>
+<td>Protección
+Institucional de la Identidad Digital – Nivel Básico</td>
+<td>01/07/2020</td>
+<td>Abierta</td>
+</tr>
+<tr>
+<td>Gestión
+Institucional de TIC – Nivel Intermedio</td>
+<td>01/08/2020</td>
+<td>Abierta</td>
+</tr>
+</tbody>
+</table>
+<p>
+Solicite más información en <a href="https://campus.aulaslibres.ar/informes/" target="_blank" rel="noopener noreferrer">ESTE ENLACE</a></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>RECURSOS DIGITALES PARA DOCENTES</title>
+        <author>
+            <name>Fernando Pelillo</name>
+        </author>
+        <link href="https://cuadernodeapuntes.netlify.app/recursos-digitales-para-docentes.html"/>
+        <id>https://cuadernodeapuntes.netlify.app/recursos-digitales-para-docentes.html</id>
+
+        <updated>2019-06-26T16:48:28-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    RECURSOS DIGITALES PARA DOCENTES Enfoque por competencias del curriculum escolar Secuencias/itinerarios de aprendizaje Mochilas de aprendizaje digitales Presentaciones animadas Pecha Kucha Gamificación EJEMPLOS
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h4><figure class="alignright size-thumbnail wp-image-353"><img loading="lazy"  src="https://cuadernodeapuntes.netlify.app/media/posts/11/sozi-150x150.png" alt="" width="150" height="150"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://cuadernodeapuntes.netlify.app/media/posts/11/responsive/sozi-150x150-xs.png 640w ,https://cuadernodeapuntes.netlify.app/media/posts/11/responsive/sozi-150x150-sm.png 768w ,https://cuadernodeapuntes.netlify.app/media/posts/11/responsive/sozi-150x150-md.png 1024w ,https://cuadernodeapuntes.netlify.app/media/posts/11/responsive/sozi-150x150-lg.png 1366w ,https://cuadernodeapuntes.netlify.app/media/posts/11/responsive/sozi-150x150-xl.png 1600w ,https://cuadernodeapuntes.netlify.app/media/posts/11/responsive/sozi-150x150-2xl.png 1920w"></figure>RECURSOS DIGITALES PARA DOCENTES</h4>
+<div></div>
+<div>
+<ul>
+ 	
+<li>Enfoque por competencias del curriculum escolar</li>
+<li>Secuencias/itinerarios de aprendizaje</li>
+<li>Mochilas de aprendizaje digitales</li>
+<li>Presentaciones animadas</li>
+<li>Pecha Kucha</li>
+<li>Gamificación</li>
+</ul>
+<h3>EJEMPLOS
+<div class="post__iframe"><iframe loading="lazy" src="https://mediatix.tk/nocturnidad/estudiantes03.svg" width="50%" height="300"><span style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" data-mce-type="bookmark" class="mce_SELRES_start">﻿</span></iframe></div></h3>
+
+<div class="post__iframe"><iframe loading="lazy" src="https://mediatix.tk/nocturnidad/C.svg" width="50%" height="300"><span style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" data-mce-type="bookmark" class="mce_SELRES_start">﻿</span></iframe></div>
+</div>
+
+
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Educación científica de exploración</title>
+        <author>
+            <name>Fernando Pelillo</name>
+        </author>
+        <link href="https://cuadernodeapuntes.netlify.app/educacion-cientifica-de-exploracion.html"/>
+        <id>https://cuadernodeapuntes.netlify.app/educacion-cientifica-de-exploracion.html</id>
+
+        <updated>2019-02-09T11:50:36-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Proyecto internacional de educación científica orientado a la Investigación de la Física, basado en la exploración y en la experimentación desde un laboratorio simulado en una computadora.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><span style="color: #333333;"><span style="font-family: Helvetica, serif;"><figure class="alignright size-full wp-image-217"><img loading="lazy"  src="https://cuadernodeapuntes.netlify.app/media/posts/9/index.png" alt="" width="227" height="222"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://cuadernodeapuntes.netlify.app/media/posts/9/responsive/index-xs.png 640w ,https://cuadernodeapuntes.netlify.app/media/posts/9/responsive/index-sm.png 768w ,https://cuadernodeapuntes.netlify.app/media/posts/9/responsive/index-md.png 1024w ,https://cuadernodeapuntes.netlify.app/media/posts/9/responsive/index-lg.png 1366w ,https://cuadernodeapuntes.netlify.app/media/posts/9/responsive/index-xl.png 1600w ,https://cuadernodeapuntes.netlify.app/media/posts/9/responsive/index-2xl.png 1920w"></figure>Proyecto internacional de educación científica orientado a la Investigación de la Física, basado en la exploración y en la experimentación desde un laboratorio simulado en una computadora.</span></span></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Docentes de Acompañamiento</title>
+        <author>
+            <name>Fernando Pelillo</name>
+        </author>
+        <link href="https://cuadernodeapuntes.netlify.app/docentes-de-acompanamiento.html"/>
+        <id>https://cuadernodeapuntes.netlify.app/docentes-de-acompanamiento.html</id>
+        <media:content url="https://cuadernodeapuntes.netlify.app/media/posts/8/cropped-director.png" medium="image" />
+
+        <updated>2019-02-09T11:45:20-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://cuadernodeapuntes.netlify.app/media/posts/8/cropped-director.png" alt="" />
+                    Proyecto de Investigación-Acción para la inclusión socioeducativa de los estudiantes que abandonan transitoriamente la escuela secundaria. Los profesores noveles se ocupan del diseño de estrategias personalizadas para apoyar las trayectorias escolares de esos estudiantes, acompañándolos para que se puedan reinsertar en su comunidad educativa.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://cuadernodeapuntes.netlify.app/media/posts/8/cropped-director.png" class="type:primaryImage" alt="" /></p>
+                <p><span><figure class="alignright size-medium wp-image-213"><img loading="lazy"  src="https://cuadernodeapuntes.netlify.app/media/posts/8/cercania-profesor-alumno-300x300.png" alt="" width="300" height="300"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://cuadernodeapuntes.netlify.app/media/posts/8/responsive/cercania-profesor-alumno-300x300-xs.png 640w ,https://cuadernodeapuntes.netlify.app/media/posts/8/responsive/cercania-profesor-alumno-300x300-sm.png 768w ,https://cuadernodeapuntes.netlify.app/media/posts/8/responsive/cercania-profesor-alumno-300x300-md.png 1024w ,https://cuadernodeapuntes.netlify.app/media/posts/8/responsive/cercania-profesor-alumno-300x300-lg.png 1366w ,https://cuadernodeapuntes.netlify.app/media/posts/8/responsive/cercania-profesor-alumno-300x300-xl.png 1600w ,https://cuadernodeapuntes.netlify.app/media/posts/8/responsive/cercania-profesor-alumno-300x300-2xl.png 1920w"></figure>Proyecto de Investigación-Acción para la inclusión socioeducativa de los estudiantes que abandonan transitoriamente la escuela secundaria. Los profesores noveles se ocupan del diseño de estrategias personalizadas para apoyar las trayectorias escolares de esos estudiantes, acompañándolos para que se puedan reinsertar en su comunidad educativa.</span></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Ciudadanía abierta, libre y solidaria</title>
+        <author>
+            <name>Fernando Pelillo</name>
+        </author>
+        <link href="https://cuadernodeapuntes.netlify.app/ciudadania-abierta-libre-y-solidaria.html"/>
+        <id>https://cuadernodeapuntes.netlify.app/ciudadania-abierta-libre-y-solidaria.html</id>
+
+        <updated>2019-02-09T11:42:11-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Generador de proyectos educativos para impulsar la ciudadanía responsable y el gobierno abierto, desde la utilización de herramientas digitales libres y móviles.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><span style="color: #333333;"><span style="font-family: Helvetica, serif;"><figure class="alignright wp-image-210 size-thumbnail"><img loading="lazy"  src="https://cuadernodeapuntes.netlify.app/media/posts/7/huelladigital-150x150.jpg" alt="" width="150" height="150"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://cuadernodeapuntes.netlify.app/media/posts/7/responsive/huelladigital-150x150-xs.jpg 640w ,https://cuadernodeapuntes.netlify.app/media/posts/7/responsive/huelladigital-150x150-sm.jpg 768w ,https://cuadernodeapuntes.netlify.app/media/posts/7/responsive/huelladigital-150x150-md.jpg 1024w ,https://cuadernodeapuntes.netlify.app/media/posts/7/responsive/huelladigital-150x150-lg.jpg 1366w ,https://cuadernodeapuntes.netlify.app/media/posts/7/responsive/huelladigital-150x150-xl.jpg 1600w ,https://cuadernodeapuntes.netlify.app/media/posts/7/responsive/huelladigital-150x150-2xl.jpg 1920w"></figure>Generador de proyectos educativos para impulsar la ciudadanía responsable y el gobierno abierto, desde la utilización de herramientas digitales libres y móviles.</span></span></p>
+
+            ]]>
+        </content>
+    </entry>
+</feed>
