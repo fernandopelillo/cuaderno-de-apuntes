@@ -3,7 +3,7 @@
     <title>Cuaderno de apuntes</title>
     <link href="https://cuadernodeapuntes.netlify.app/feed.xml" rel="self" />
     <link href="https://cuadernodeapuntes.netlify.app" />
-    <updated>2026-11-08T10:33:29-03:00</updated>
+    <updated>2026-11-08T11:22:47-03:00</updated>
     <author>
         <name>Fernando Pelillo</name>
     </author>
@@ -16,7 +16,7 @@
         </author>
         <link href="https://cuadernodeapuntes.netlify.app/seguimos-adiestrando-monos.html"/>
         <id>https://cuadernodeapuntes.netlify.app/seguimos-adiestrando-monos.html</id>
-        <media:content url="https://cuadernodeapuntes.netlify.app/media/posts/33/Captura-de-pantalla-2026-11-08-10-08-25.png" medium="image" />
+        <media:content url="https://cuadernodeapuntes.netlify.app/media/posts/33/adiestrando-monos.jpg" medium="image" />
             <category term="Soberanía tecnológica"/>
             <category term="Pedagogía crítica"/>
             <category term="Formación docente"/>
@@ -25,13 +25,13 @@
         <updated>2026-11-08T10:08:46-03:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://cuadernodeapuntes.netlify.app/media/posts/33/Captura-de-pantalla-2026-11-08-10-08-25.png" alt="" />
+                        <img src="https://cuadernodeapuntes.netlify.app/media/posts/33/adiestrando-monos.jpg" alt="" />
                     Una noticia de estos días recupera una declaración de Linus Torvalds, el creador de Linux: no todos los chicos necesitan aprender a programar. La frase, presentada como una novedad, invita a una discusión bastante conocida: ¿hay que enseñar programación en la escuela o alcanza con&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://cuadernodeapuntes.netlify.app/media/posts/33/Captura-de-pantalla-2026-11-08-10-08-25.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://cuadernodeapuntes.netlify.app/media/posts/33/adiestrando-monos.jpg" class="type:primaryImage" alt="" /></p>
                 <header></header><main>
 <article><header></header></article>
 </main><main>
